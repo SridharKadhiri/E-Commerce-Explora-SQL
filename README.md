@@ -1,6 +1,15 @@
 # E-Commerce-Explora-SQL
-## Overview
-This README file provides details about the SQL tasks and insights gained from working with the E-Commerce data using MySQL. Below are the tasks performed and the associated SQL commands along with explanations of the insights obtained.
+
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 0px 20px;">
+    <h2>Overview</h2>
+    <p>This README file provides details about the SQL tasks and insights gained from working with the E-Commerce data using MySQL. Below are the tasks performed and the associated SQL commands along with explanations of the insights obtained.</p>
+  </div>
+  <div style="flex: 50%;">
+    <img src="https://github.com/SridharKadhiri/E-Commerce-Explora-SQL/assets/90100318/11b8843f-ebf1-4042-9a97-cfb2e0de8ded" alt="image" width="30%">
+  </div>
+</div>
+
 
 ## Task 1: Creating a New Schema and Importing Data
 - Created a new schema named "ecommerce."
